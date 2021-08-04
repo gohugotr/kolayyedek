@@ -226,14 +226,14 @@ ul.list-style-none {
     width: 1200px;
     margin: 0 auto;
     overflow: hidden;
-    -webkit-box-shadow: 0 0 5px #cccccc;
-    box-shadow: 0 0 5px #cccccc;
+    -webkit-box-shadow: 0 0 5px #ccc;
+    box-shadow: 0 0 5px #ccc;
   }
 }
 #top {
-  background: #555555;
-  color: #eeeeee;
-  padding: 10px 0;
+  background: #555;
+  color: #eee;
+  padding: 14px 0 10px;
 }
 #top p {
   margin: 0;
