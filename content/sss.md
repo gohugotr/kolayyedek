@@ -1,6 +1,6 @@
 +++
-title = "SSS"
-description = "Sıkça Sorulan Sorular"
+title = "Sık Sorulan Sorular"
+description = "Sık Sorulan Sorular"
 keywords = ["SSS","Nasıl yaparım", "Sorular", "ne olursa"]
 +++
 
@@ -40,4 +40,4 @@ Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac tu
 
 ---
 
-> In case you haven't found the answer for your question please feel free to contact us, our customer support will be happy to help you.
+> Sorunuzun cevabını bulamadıysanız lütfen bizimle iletişime geçmekten çekinmeyin, müşteri desteğimiz size yardımcı olmaktan mutluluk duyacaktır..

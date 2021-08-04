@@ -31,9 +31,9 @@ paginate = 10
     weight = 2
 
 [[menu.main]]
-    identifier = "faq"
+    identifier = "sss"
     name = "SSS"
-    url  = "/faq/"
+    url  = "/sss/"
     weight = 3
 
 [[menu.main]]
