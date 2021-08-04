@@ -37,9 +37,9 @@ paginate = 10
     weight = 3
 
 [[menu.main]]
-    identifier = "contact"
+    identifier = "iletisim"
     name = "İletişim"
-    url  = "/contact/"
+    url  = "/iletisim/"
     weight = 4
 
 # Top bar social links menu

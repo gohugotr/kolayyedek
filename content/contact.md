@@ -1,6 +1,6 @@
 +++
 title = "İletişim"
-id = "contact"
+id = "iletisim"
 +++
 
 # We are here to help you
