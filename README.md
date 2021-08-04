@@ -1,1 +1,1 @@
-# KolayYedek Buluta Yedekleme Projesi
+# KolayYedek Buluta Yedekleme Projesi.
