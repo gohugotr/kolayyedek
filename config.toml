@@ -70,14 +70,14 @@ paginate = 10
 
 [params]
     viewMorePostLink = "/blog/"
-    author = "DevCows"
-    defaultKeywords = ["devows", "hugo", "go"]
+    author = "CyYazılım"
+    defaultKeywords = ["Yedekle", "Bulut yedek", "kolay yedek"]
     mainSections = ["blog"]
-    defaultDescription = "Site template made by devcows using hugo"
+    defaultDescription = "Verilerinizi buluta yedekler"
 
     # Social media
-    facebook_site = "" # the Facebook handle of your site ('https://www.facebook.com/HANDLE')
-    twitter_site = "GoHugoIO" # the Twitter handle of your site (without the '@')
+    facebook_site = "kolayyedek" # the Facebook handle of your site ('https://www.facebook.com/HANDLE')
+    twitter_site = "kolayyedek" # the Twitter handle of your site (without the '@')
     default_sharing_image = "img/sharing-default.png"
 
     # Google Maps widget: If `googleMapsApiKey` is not set, no key will be passed to Google (which likely results in a broken map widget).
@@ -107,7 +107,7 @@ paginate = 10
     formspree_action = "https://formspree.io/sample/of/endpoint"
     contact_form_ajax = true
 
-    about_us = "<p>Sizin için verilerinizi buluta yedekliyoruz.Sizin için verilerinizi buluta yedekliyoruz.</p><p>Sizin için verilerinizi buluta yedekliyoruz.Sizin için verilerinizi buluta yedekliyoruz.</p><p>Sizin için verilerinizi buluta yedekliyoruz.Sizin için verilerinizi buluta yedekliyoruz.</p>"
+    hakkimizda = "<p>Sizin için verilerinizi buluta yedekliyoruz.Sizin için verilerinizi buluta yedekliyoruz.</p><p>Sizin için verilerinizi buluta yedekliyoruz.Sizin için verilerinizi buluta yedekliyoruz.</p><p>Sizin için verilerinizi buluta yedekliyoruz.Sizin için verilerinizi buluta yedekliyoruz.</p>"
     copyright = "Telif hakkı (c) 2021, KolayYedek; her hakkı saklıdır."
 
     # Format dates with Go's time formatting
