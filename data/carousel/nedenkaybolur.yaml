@@ -1,0 +1,11 @@
+weight: 2
+title: "Verilerinizin kaybolmasının en önemli 5 nedeni"
+description: >
+  <ul class="list-style-none">
+     <li>Virüsler veya fidye yazılımı gibi istenmeyen kodlar</li>
+     <li>Yanlışlıkla silme (Eyvah hayır!)</li>
+     <li>Kahve dökülmesi gibi günlük kazalar</li>
+     <li>Kayıp veya hasarlı bilgisayar</li>
+     <li>Cihaz hırsızlığı</li>
+   </ul>
+image: "img/carousel/template-mac.webp"

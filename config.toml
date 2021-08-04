@@ -46,26 +46,26 @@ paginate = 10
 
 [[menu.topbar]]
     weight = 1
-    name = "GitHub"
-    url = "https://github.com/devcows/hugo-universal-theme"
-    pre = "<i class='fab fa-2x fa-github'></i>"
-
-[[menu.topbar]]
-    weight = 2
     name = "Facebook"
     url = "https://facebook.com/kolayyedek"
     pre = "<i class='fab fa-2x fa-facebook'></i>"
 
 [[menu.topbar]]
-    weight = 3
+    weight = 2
     name = "Twitter"
     url = "https://twitter.com/kolayyedek"
     pre = "<i class='fab fa-2x fa-twitter'></i>"
 
 [[menu.topbar]]
+    weight = 3
+    name = "İnstagram"
+    url = "https://instagram.com/kolayyedek"
+    pre = "<i class='fab fa-2x fa-instagram'></i>"
+
+[[menu.topbar]]
     weight = 4
     name = "Email"
-    url = "mailto:hello@kolayyedek.com"
+    url = "mailto:destek@kolayyedek.com"
     pre = "<i class='fas fa-2x fa-envelope'></i>"
 
 [params]
@@ -118,10 +118,7 @@ paginate = 10
     address = """<p class="text-uppercase"><strong>Fonstra Bilişim Yazılım Telekom Reklam ve Danışmanlık Dış Tic. Ltd. Şti.</strong>
         <br>
         <br>İçerenköy Mah. Tabiat Sk. Kargın İş Merkezi No:14-4 Kat:1 Ofis:4
-        <br>Ataşehir / İstanbul
-        <br>
-        <br>Vergi Dairesi : Kozyatağı
-        <br>Vergi No: 3880786510
+        <br><span class="pull-right">Ataşehir / İstanbul</span>
       </p>
       """
 
