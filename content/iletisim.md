@@ -3,7 +3,7 @@ title = "İletişim"
 id = "iletisim"
 +++
 
-# Size yardım etmek için buradayız
+# Size yardım etmek için buradayız...
 
 Bir şeyi mi merak ediyorsun? Ürünlerimizle ilgili bir sorununuz mu var?
 
